@@ -1,52 +1,88 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
+      "cityName": "Delhi",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-01-15T10:00:00.000Z",
+      "notes": "Historic landmarks and delicious street food.",
       "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
+        "lat": 28.613939,
+        "lng": 77.209021
       },
-      "id": 73930385
+      "id": 101001
     },
     {
-      "cityName": "Madrid",
+      "cityName": "Mumbai",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-03-10T08:30:00.000Z",
+      "notes": "The city that never sleeps!",
+      "position": {
+        "lat": 19.07609,
+        "lng": 72.877426
+      },
+      "id": 101002
+    },
+    {
+      "cityName": "Bangalore",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-05-20T14:15:00.000Z",
+      "notes": "Clean, green and tech-savvy.",
+      "position": {
+        "lat": 12.971599,
+        "lng": 77.594566
+      },
+      "id": 101003
+    },
+    {
+      "cityName": "Jaipur",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-11-02T09:45:00.000Z",
+      "notes": "Loved the palaces and pink city vibes.",
+      "position": {
+        "lat": 26.912434,
+        "lng": 75.787271
+      },
+      "id": 101004
+    },
+    {
+      "cityName": "Coria",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
+      "date": "2025-06-08T17:54:33.320Z",
       "notes": "",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "39.95246497403434",
+        "lng": "-6.50390625"
       },
-      "id": 17806751
+      "id": 101005
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443197
-    },
-    {
-      "cityName": "Nijar",
+      "cityName": "Pedroche",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2023-04-03T07:47:59.202Z",
+      "date": "2025-06-08T17:57:48.157Z",
       "notes": "",
       "position": {
-        "lat": "36.967508314568164",
-        "lng": "-2.13128394200588"
+        "lat": "38.43207694787607",
+        "lng": "-4.746093750000001"
       },
-      "id": 98443198
+      "id": 101006
+    },
+    {
+      "cityName": "Valdestillas",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-06-08T17:57:52.547Z",
+      "notes": "",
+      "position": {
+        "lat": "41.4608726455447",
+        "lng": "-4.768066406250001"
+      },
+      "id": 101007
     }
   ]
 }

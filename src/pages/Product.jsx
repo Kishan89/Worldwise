@@ -12,17 +12,19 @@ export default function Product() {
           alt="person with dog overlooking mountain with sunset"
         />
         <div>
-          <h2>About WorldWide.</h2>
+          <h2>About GlobeSense.</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo est
-            dicta illum vero culpa cum quaerat architecto sapiente eius non
-            soluta, molestiae nihil laborum, placeat debitis, laboriosam at fuga
-            perspiciatis?
+            GlobeSense is your ultimate companion for exploring the globe with
+            confidence. Whether you're planning your next adventure or analyzing
+            travel trends, our platform offers real-time location data,
+            personalized insights, and a seamless user experience to keep you
+            informed — wherever you go.
           </p>
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corporis
-            doloribus libero sunt expedita ratione iusto, magni, id sapiente
-            sequi officiis et.
+            Built for curious travellers, digital nomads, and data enthusiasts,
+            GlobeSense connects places, people, and stories in one interactive
+            ecosystem. Discover smarter, travel further, and stay ahead with
+            GlobeSense.
           </p>
         </div>
       </section>
